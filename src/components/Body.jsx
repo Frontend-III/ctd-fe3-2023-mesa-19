@@ -3,11 +3,11 @@ import LanguageContext from '../context'
 
 const Body = () => {
     
-    /* DICA: Utilize o useContext() */
+    /* CONSEJO: Utilizar useContext */
     
     return (
         <div>
-            {/* DICA: Utilize os valores capturados via contexto */}
+            {/* CONSEJO: Utilizar los valores capturados desde el useContext */}
             <h1>Título</h1>
             <p>Descrição</p>
         </div>
